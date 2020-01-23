@@ -2,7 +2,7 @@
 Information Getter Functions
 ~~~~~~~~~~~~~~~~~~~
 
-Use of MongoDB for data getting.
+Use of MongoDB for data retrieval.
 """
 from .dt_struc import *
 
