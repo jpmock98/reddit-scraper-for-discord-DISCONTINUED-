@@ -1,4 +1,6 @@
 # reddit-scraper-for-discord
+Project has reached EOL due to unsupported API by Discord Inc.
+
 
 ## Discord Channel
 The current discord channel used for debugging the bot is https://discord.gg/zUf4NbH
